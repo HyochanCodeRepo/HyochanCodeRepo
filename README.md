@@ -17,4 +17,11 @@ Here are some ideas to get you started:
 -->
 Stack
 ---
-![](https://img.shields.io/badge/Javas-F7DF1E?style=flat-square&logo=Java&logoColor=black)
+Language
+---
+-![](https://img.shields.io/badge/Java-F7DF1E?style=flat-square&logo=Java&logoColor=black)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black)
+
+Framework
+---
+
