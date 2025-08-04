@@ -5,9 +5,6 @@ Junior Web Back-End Developer
 
 Here are some ideas to get you started:
 
-Stack
----
-
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -18,3 +15,5 @@ Stack
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Stack
+---
