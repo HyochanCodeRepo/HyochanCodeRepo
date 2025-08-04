@@ -1,6 +1,6 @@
 ## 👋About Me
 ---
-Junior Web Back-End Developer
+Junior Web Back-End Developer<br>
 백엔드 중심의 웹 개발을 사랑하는 열정 넘치는 개발자입니다.
 
 Stack
