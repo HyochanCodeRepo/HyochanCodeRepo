@@ -1,12 +1,12 @@
 ## 이효찬 👋
-![header](https://capsule-render.vercel.app/api?type=slice?text=asdf)
 Junior Web Back-End Developer
 <!--
 **HyochanCodeRepo/HyochanCodeRepo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-
+Stack
+---
 
 
 - 🔭 I’m currently working on ...
