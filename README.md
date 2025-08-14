@@ -24,6 +24,7 @@ Language
 Database
 ---
 ![MariaDB](https://img.shields.io/badge/MariaDB-1F305F?style=flat-square&logo=MariaDB&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-1F305F?style=flat-square&logo=MySQL&logoColor=white)
 
 📫Contact
 - Email : Hyochan.lee91@gmail.com
